@@ -29,7 +29,7 @@ The loss function is Cross Entropy, but Focal Loss is recommended.
 
 Focal loss can be availabe from:
 
-https://github.com/umbertogriffo/focal-loss-keras  (My gihub also fork this loss function please check)
+https://github.com/umbertogriffo/focal-loss-keras  (My github also forks this loss function please check)
 
 
 If you have any questions, please send email to me (xingshuli600@gmail.com).
